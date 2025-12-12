@@ -1,2 +1,2 @@
 # MATH_237_Project_2
-Project 2 for MATH 237
+For this project, I looked at the Student Performance dataset from the UCI Machine Learning Repository. In the project itself, I did an analysis on the data to answer the question: does being in a romantic relationship have an impact on academic performance? To do this, I did a lot of exploratory data analysis and developed a linear regression model to determine the correlation between the relevant features. In the end, the data concluded that there was no relationship between a student being a romantic relationship, and their academic performance. 
